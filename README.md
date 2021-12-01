@@ -1,5 +1,5 @@
 ### Mobile Application Developer
-- I'm working on iOS app development
+- I'm working on iOS app development.
 - I'm interested in mobile service development in general.
 <br/>
 
